@@ -24,7 +24,7 @@ if __name__ == '__main__':
     # adding new item in master branch
     print_hi('Hello World 5')
 
-    #Updates in local master branch
-    print_hi("Hello World Updates on Local Master Branch")
+    #Updates on mainbranch of Github
+    print_hi("Hello World Updates on Github")
 
 # https://www.jetbrains.com/help/pycharm/에서 PyCharm 도움말 참조

@@ -28,5 +28,8 @@ if __name__ == '__main__':
     print_hi("Hello World Updates on local Master Branch")
     #Updates on mainbranch of Github
     print_hi("Hello World Updates on Github")
+    
+    #Updates on mainbranch of Github
+    print_hi("Hello World Updates 2 on Github")
 
 # https://www.jetbrains.com/help/pycharm/에서 PyCharm 도움말 참조

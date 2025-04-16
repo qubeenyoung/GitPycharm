@@ -16,4 +16,6 @@ if __name__ == '__main__':
     #adding new item in hotfix
     print_hi('Hello World 2')
 
+    # adding new item in hotfix
+    print_hi('Hello World 3')
 # https://www.jetbrains.com/help/pycharm/에서 PyCharm 도움말 참조
